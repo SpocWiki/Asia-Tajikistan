@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.5,71.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kharog|Kharog]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kharog.public|Kharog.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kharog.internal|Kharog.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kharog.protect|Kharog.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kharog.private|Kharog.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kharog.personal|Kharog.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kharog.secret|Kharog.secret]] 
+
+### #is_/same_as :: [Kharog](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.md) 
+
+### #is_/same_as :: [Kharog.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.public.md) 
+
+### #is_/same_as :: [Kharog.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.internal.md) 
+
+### #is_/same_as :: [Kharog.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.protect.md) 
+
+### #is_/same_as :: [Kharog.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.private.md) 
+
+### #is_/same_as :: [Kharog.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.personal.md) 
+
+### #is_/same_as :: [Kharog.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Kharog.secret.md)
+

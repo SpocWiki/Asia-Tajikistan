@@ -40,11 +40,18 @@ markerFolder: ./Gorno-Badakhshan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan|Gorno-Badakhshan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.public|Gorno-Badakhshan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.internal|Gorno-Badakhshan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.protect|Gorno-Badakhshan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.private|Gorno-Badakhshan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.personal|Gorno-Badakhshan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.secret|Gorno-Badakhshan.secret]] 
+
+### #is_/same_as :: [Gorno-Badakhshan](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.md) 
+
+### #is_/same_as :: [Gorno-Badakhshan.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.public.md) 
+
+### #is_/same_as :: [Gorno-Badakhshan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.internal.md) 
+
+### #is_/same_as :: [Gorno-Badakhshan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.protect.md) 
+
+### #is_/same_as :: [Gorno-Badakhshan.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.private.md) 
+
+### #is_/same_as :: [Gorno-Badakhshan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.personal.md) 
+
+### #is_/same_as :: [Gorno-Badakhshan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.secret.md)
 

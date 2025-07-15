@@ -40,11 +40,18 @@ markerFolder: ./Khatlon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon|Khatlon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.public|Khatlon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.internal|Khatlon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.protect|Khatlon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.private|Khatlon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.personal|Khatlon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.secret|Khatlon.secret]] 
+
+### #is_/same_as :: [Khatlon](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.md) 
+
+### #is_/same_as :: [Khatlon.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.public.md) 
+
+### #is_/same_as :: [Khatlon.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.internal.md) 
+
+### #is_/same_as :: [Khatlon.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.protect.md) 
+
+### #is_/same_as :: [Khatlon.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.private.md) 
+
+### #is_/same_as :: [Khatlon.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.personal.md) 
+
+### #is_/same_as :: [Khatlon.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.57,68.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Stalinabad|Stalinabad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinabad.public|Stalinabad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinabad.internal|Stalinabad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinabad.protect|Stalinabad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinabad.private|Stalinabad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinabad.personal|Stalinabad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinabad.secret|Stalinabad.secret]] 
+
+### #is_/same_as :: [Stalinabad](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.md) 
+
+### #is_/same_as :: [Stalinabad.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.public.md) 
+
+### #is_/same_as :: [Stalinabad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.internal.md) 
+
+### #is_/same_as :: [Stalinabad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.protect.md) 
+
+### #is_/same_as :: [Stalinabad.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.private.md) 
+
+### #is_/same_as :: [Stalinabad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.personal.md) 
+
+### #is_/same_as :: [Stalinabad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.secret.md)
+

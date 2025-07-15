@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.62,67.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Pendjekent|Pendjekent]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pendjekent.public|Pendjekent.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pendjekent.internal|Pendjekent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pendjekent.protect|Pendjekent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pendjekent.private|Pendjekent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pendjekent.personal|Pendjekent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pendjekent.secret|Pendjekent.secret]] 
+
+### #is_/same_as :: [Pendjekent](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.md) 
+
+### #is_/same_as :: [Pendjekent.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.public.md) 
+
+### #is_/same_as :: [Pendjekent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.internal.md) 
+
+### #is_/same_as :: [Pendjekent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.protect.md) 
+
+### #is_/same_as :: [Pendjekent.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.private.md) 
+
+### #is_/same_as :: [Pendjekent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.personal.md) 
+
+### #is_/same_as :: [Pendjekent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.secret.md)
+

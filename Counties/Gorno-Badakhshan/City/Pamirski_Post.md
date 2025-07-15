@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.18,74.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Pamirski_Post|Pamirski_Post]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pamirski_Post.public|Pamirski_Post.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pamirski_Post.internal|Pamirski_Post.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pamirski_Post.protect|Pamirski_Post.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pamirski_Post.private|Pamirski_Post.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pamirski_Post.personal|Pamirski_Post.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pamirski_Post.secret|Pamirski_Post.secret]] 
+
+### #is_/same_as :: [Pamirski_Post](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.md) 
+
+### #is_/same_as :: [Pamirski_Post.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.public.md) 
+
+### #is_/same_as :: [Pamirski_Post.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.internal.md) 
+
+### #is_/same_as :: [Pamirski_Post.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.protect.md) 
+
+### #is_/same_as :: [Pamirski_Post.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.private.md) 
+
+### #is_/same_as :: [Pamirski_Post.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.personal.md) 
+
+### #is_/same_as :: [Pamirski_Post.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.secret.md)
+

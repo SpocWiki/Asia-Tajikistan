@@ -40,11 +40,18 @@ markerFolder: ./Sughd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad|Leninabad]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.public|Leninabad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.internal|Leninabad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.protect|Leninabad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.private|Leninabad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.personal|Leninabad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan/Counties/Leninabad.secret|Leninabad.secret]] 
+
+### #is_/same_as :: [Sughd](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.md) 
+
+### #is_/same_as :: [Sughd.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.public.md) 
+
+### #is_/same_as :: [Sughd.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.internal.md) 
+
+### #is_/same_as :: [Sughd.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.protect.md) 
+
+### #is_/same_as :: [Sughd.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.private.md) 
+
+### #is_/same_as :: [Sughd.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.personal.md) 
+
+### #is_/same_as :: [Sughd.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.secret.md)
 

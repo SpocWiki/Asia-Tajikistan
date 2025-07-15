@@ -130,10 +130,4 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Tajikistan|Tajikistan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~Central/Tajikistan.internal|Tajikistan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~Central/Tajikistan.protect|Tajikistan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~Central/Tajikistan.private|Tajikistan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~Central/Tajikistan.personal|Tajikistan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~Central/Tajikistan.secret|Tajikistan.secret]] 
+

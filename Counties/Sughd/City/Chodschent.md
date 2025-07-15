@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.28,69.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chodschent|Chodschent]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chodschent.public|Chodschent.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chodschent.internal|Chodschent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chodschent.protect|Chodschent.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chodschent.private|Chodschent.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chodschent.personal|Chodschent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chodschent.secret|Chodschent.secret]] 
+
+### #is_/same_as :: [Chodschent](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.md) 
+
+### #is_/same_as :: [Chodschent.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.public.md) 
+
+### #is_/same_as :: [Chodschent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.internal.md) 
+
+### #is_/same_as :: [Chodschent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.protect.md) 
+
+### #is_/same_as :: [Chodschent.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.private.md) 
+
+### #is_/same_as :: [Chodschent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.personal.md) 
+
+### #is_/same_as :: [Chodschent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Chodschent.secret.md)
+
