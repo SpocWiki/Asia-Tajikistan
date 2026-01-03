@@ -40,17 +40,17 @@ markerFolder: ./Gorno-Badakhshan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gorno-Badakhshan](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan|Gorno-Badakhshan]] 
 
-### #is_/same_as :: [Gorno-Badakhshan.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.public|Gorno-Badakhshan.public]] 
 
-### #is_/same_as :: [Gorno-Badakhshan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.internal|Gorno-Badakhshan.internal]] 
 
-### #is_/same_as :: [Gorno-Badakhshan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.protect|Gorno-Badakhshan.protect]] 
 
-### #is_/same_as :: [Gorno-Badakhshan.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.private|Gorno-Badakhshan.private]] 
 
-### #is_/same_as :: [Gorno-Badakhshan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.personal|Gorno-Badakhshan.personal]] 
 
-### #is_/same_as :: [Gorno-Badakhshan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan.secret|Gorno-Badakhshan.secret]] 
 

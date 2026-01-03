@@ -41,17 +41,17 @@ markerFolder: ./Sughd/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sughd](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd|Sughd]] 
 
-### #is_/same_as :: [Sughd.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.public|Sughd.public]] 
 
-### #is_/same_as :: [Sughd.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.internal|Sughd.internal]] 
 
-### #is_/same_as :: [Sughd.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.protect|Sughd.protect]] 
 
-### #is_/same_as :: [Sughd.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.private|Sughd.private]] 
 
-### #is_/same_as :: [Sughd.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.personal|Sughd.personal]] 
 
-### #is_/same_as :: [Sughd.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd.secret|Sughd.secret]] 
 

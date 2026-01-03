@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pendjekent](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent|Pendjekent]] 
 
-### #is_/same_as :: [Pendjekent.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.public|Pendjekent.public]] 
 
-### #is_/same_as :: [Pendjekent.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.internal|Pendjekent.internal]] 
 
-### #is_/same_as :: [Pendjekent.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.protect|Pendjekent.protect]] 
 
-### #is_/same_as :: [Pendjekent.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.private|Pendjekent.private]] 
 
-### #is_/same_as :: [Pendjekent.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.personal|Pendjekent.personal]] 
 
-### #is_/same_as :: [Pendjekent.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Pendjekent.secret|Pendjekent.secret]] 
 

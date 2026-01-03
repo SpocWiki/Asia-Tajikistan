@@ -171,20 +171,19 @@ markerFolder: ./Dushanbe/
 > [Wikipedia](https://en.wikipedia.org/wiki/Dushanbe) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dushanbe](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe|Dushanbe]] 
 
-### #is_/same_as :: [Dushanbe.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.public|Dushanbe.public]] 
 
-### #is_/same_as :: [Dushanbe.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.internal|Dushanbe.internal]] 
 
-### #is_/same_as :: [Dushanbe.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.protect|Dushanbe.protect]] 
 
-### #is_/same_as :: [Dushanbe.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.private|Dushanbe.private]] 
 
-### #is_/same_as :: [Dushanbe.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.personal|Dushanbe.personal]] 
 
-### #is_/same_as :: [Dushanbe.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe.secret|Dushanbe.secret]] 
 

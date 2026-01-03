@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ura-tyube](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube|Ura-tyube]] 
 
-### #is_/same_as :: [Ura-tyube.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.public|Ura-tyube.public]] 
 
-### #is_/same_as :: [Ura-tyube.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.internal|Ura-tyube.internal]] 
 
-### #is_/same_as :: [Ura-tyube.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.protect|Ura-tyube.protect]] 
 
-### #is_/same_as :: [Ura-tyube.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.private|Ura-tyube.private]] 
 
-### #is_/same_as :: [Ura-tyube.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.personal|Ura-tyube.personal]] 
 
-### #is_/same_as :: [Ura-tyube.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Sughd/City/Ura-tyube.secret|Ura-tyube.secret]] 
 

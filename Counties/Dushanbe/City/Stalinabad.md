@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stalinabad](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad|Stalinabad]] 
 
-### #is_/same_as :: [Stalinabad.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.public|Stalinabad.public]] 
 
-### #is_/same_as :: [Stalinabad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.internal|Stalinabad.internal]] 
 
-### #is_/same_as :: [Stalinabad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.protect|Stalinabad.protect]] 
 
-### #is_/same_as :: [Stalinabad.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.private|Stalinabad.private]] 
 
-### #is_/same_as :: [Stalinabad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.personal|Stalinabad.personal]] 
 
-### #is_/same_as :: [Stalinabad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Dushanbe/City/Stalinabad.secret|Stalinabad.secret]] 
 

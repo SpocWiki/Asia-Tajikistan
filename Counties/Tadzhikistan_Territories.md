@@ -40,17 +40,17 @@ markerFolder: ./Tadzhikistan_Territories/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tadzhikistan_Territories](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories|Tadzhikistan_Territories]] 
 
-### #is_/same_as :: [Tadzhikistan_Territories.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.public|Tadzhikistan_Territories.public]] 
 
-### #is_/same_as :: [Tadzhikistan_Territories.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.internal|Tadzhikistan_Territories.internal]] 
 
-### #is_/same_as :: [Tadzhikistan_Territories.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.protect|Tadzhikistan_Territories.protect]] 
 
-### #is_/same_as :: [Tadzhikistan_Territories.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.private|Tadzhikistan_Territories.private]] 
 
-### #is_/same_as :: [Tadzhikistan_Territories.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.personal|Tadzhikistan_Territories.personal]] 
 
-### #is_/same_as :: [Tadzhikistan_Territories.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories.secret|Tadzhikistan_Territories.secret]] 
 

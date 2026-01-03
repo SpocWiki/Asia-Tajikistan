@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kulab=Kulyab](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab|Kulab=Kulyab]] 
 
-### #is_/same_as :: [Kulab=Kulyab.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.public|Kulab=Kulyab.public]] 
 
-### #is_/same_as :: [Kulab=Kulyab.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.internal|Kulab=Kulyab.internal]] 
 
-### #is_/same_as :: [Kulab=Kulyab.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.protect|Kulab=Kulyab.protect]] 
 
-### #is_/same_as :: [Kulab=Kulyab.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.private|Kulab=Kulyab.private]] 
 
-### #is_/same_as :: [Kulab=Kulyab.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.personal|Kulab=Kulyab.personal]] 
 
-### #is_/same_as :: [Kulab=Kulyab.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Khatlon/City/Kulab=Kulyab.secret|Kulab=Kulyab.secret]] 
 

@@ -130,5 +130,19 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 [geo-lat::38.55] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe|ReadMe]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe.public|ReadMe.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe.internal|ReadMe.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe.protect|ReadMe.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe.private|ReadMe.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe.personal|ReadMe.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/ReadMe.secret|ReadMe.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garm](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm|Garm]] 
 
-### #is_/same_as :: [Garm.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.public|Garm.public]] 
 
-### #is_/same_as :: [Garm.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.internal|Garm.internal]] 
 
-### #is_/same_as :: [Garm.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.protect|Garm.protect]] 
 
-### #is_/same_as :: [Garm.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.private|Garm.private]] 
 
-### #is_/same_as :: [Garm.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.personal|Garm.personal]] 
 
-### #is_/same_as :: [Garm.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Tadzhikistan_Territories/City/Garm.secret|Garm.secret]] 
 

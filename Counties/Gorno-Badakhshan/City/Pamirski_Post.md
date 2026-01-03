@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pamirski_Post](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post|Pamirski_Post]] 
 
-### #is_/same_as :: [Pamirski_Post.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.public|Pamirski_Post.public]] 
 
-### #is_/same_as :: [Pamirski_Post.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.internal|Pamirski_Post.internal]] 
 
-### #is_/same_as :: [Pamirski_Post.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.protect|Pamirski_Post.protect]] 
 
-### #is_/same_as :: [Pamirski_Post.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.private|Pamirski_Post.private]] 
 
-### #is_/same_as :: [Pamirski_Post.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.personal|Pamirski_Post.personal]] 
 
-### #is_/same_as :: [Pamirski_Post.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan/Counties/Gorno-Badakhshan/City/Pamirski_Post.secret|Pamirski_Post.secret]] 
 
