@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::38.55] 
 [name::Dushanbe] 
 State ::  
-Country :: [[../../../../Tajikistan]]  
+Country :: [[../../../../Tajikistan|Tajikistan]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 
