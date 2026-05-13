@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gorno-Badakhshan/
 markerFolder: ./Gorno-Badakhshan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

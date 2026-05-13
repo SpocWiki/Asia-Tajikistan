@@ -28,7 +28,7 @@ coordinates: [[Kulab=Kulyab]]
 markerFile: [[Kulab=Kulyab]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

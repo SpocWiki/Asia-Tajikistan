@@ -28,7 +28,7 @@ coordinates: [[Leninabad]]
 markerFile: [[Leninabad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ coordinates: [[Stalinabad]]
 markerFile: [[Stalinabad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

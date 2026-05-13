@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tadzhikistan_Territories/
 markerFolder: ./Tadzhikistan_Territories/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

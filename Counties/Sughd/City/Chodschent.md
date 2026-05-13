@@ -28,7 +28,7 @@ coordinates: [[Chodschent]]
 markerFile: [[Chodschent]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

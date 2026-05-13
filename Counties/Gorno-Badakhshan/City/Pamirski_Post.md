@@ -28,7 +28,7 @@ coordinates: [[Pamirski_Post]]
 markerFile: [[Pamirski_Post]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
